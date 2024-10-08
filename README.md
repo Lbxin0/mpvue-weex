@@ -1,4 +1,4 @@
-## 一套 Vue 代码， 支持 PC、H5、小程序、安卓 App、苹果 App
+## 一套 Vue 代码， 支持 PC、H5、小程序、安卓 App、苹果 App 
 
 ![图片](https://raw.githubusercontent.com/zhongku/zkweb/master/src/assets/img/github/banner.png)
 
